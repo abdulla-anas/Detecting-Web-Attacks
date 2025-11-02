@@ -126,8 +126,8 @@ cd web-attack-detection
 
 ## 👨‍💻 Members
 
-**Mohammed Shoaib** 
-**Obaidullah Asim** 
+**Mohammed Shoaib**,
+**Obaidullah Asim**, 
 **Mohammed Abdulla Anas**  
 Guided by: **Mrs. Khutaija Abid**
 
